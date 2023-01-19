@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tu11aa.github.io",
+  "homepage": "https://tu11aa.github.io/happy-new-year",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
