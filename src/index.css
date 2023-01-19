@@ -10,13 +10,34 @@
 html{
 	background: #ad110c;
 }
-input.date{
+input.code {
+  display: block;
+  margin: auto;
+  margin-top: 50vh;
+  padding: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+.none{
+  display: none;
+}
+.z-index {
   position: relative;
+  z-index: 2;
+}
+select.options {
+  display: block;
+  margin: auto;
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+input.date{
   border: none;
   padding: 10px;
   border-radius: 5px;
   display: block;
-  z-index: 1;
   margin: auto;
   margin-top: 10px;
 }
@@ -30,7 +51,6 @@ p.text {
   width: 60%;
   padding: 5px 10px;
   border-radius: 5px;
-  position: relative;
   z-index: 2;
 }
 .feliz{
@@ -138,6 +158,7 @@ span.sete:before{
   position: absolute;
   top: 0;
   left: 0;
+  z-index: -1;
   overflow: hidden;
 }
 .fogos>div{
