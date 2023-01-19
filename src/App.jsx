@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./App.css";
 import { wish } from "./data.js";
 
 function App() {
@@ -8,6 +7,7 @@ function App() {
   const handleDate = (e) => {
     const value = e.target.value;
     if (value in wish) setText(wish[value]);
+    else setText("");
   };
 
   return (
