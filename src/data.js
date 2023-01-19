@@ -3,7 +3,7 @@ const birthday = {
   Quynh: "2000-10-17",
   Phuong: "2002-07-05",
   Nam: "2002-08-13",
-  Dai: "2002-",
+  Dai: "2002-00-25",
   Diep: "2002-09-30",
   Quang: "2002-03-07",
   Thuan: "2002-06-02",
@@ -30,6 +30,18 @@ const wishsRelatives = [
   "Một năm mới mang đến cho ta cơ hội để biến ước mơ trở thành hiện thực, giúp cuộc sống trở nên tốt hơn mỗi ngày. Con mong năm mới 2023 cũng mang đến cho @name những điều tốt đẹp nhất. Chúc mừng năm mới!",
   "Năm mới đến, con không có ước nguyện gì ngoài việc mong @name sức khoẻ, bình an, luôn là động lực, chỗ dựa cho con cháu.",
   // "Lại một năm mới sắp đến, con cảm thấy mình thật may mắn khi vẫn có đủ đầy cả bố cả mẹ. Con cảm ơn @name đã luôn ở bên, chia sẻ, thấu hiểu và giúp đỡ con trong cuộc sống.",
+];
+
+const wishsCousin = [
+  "Chúc mừng năm mới! Chúc toàn thể gia đình bạn tôi vạn sự như ý, tỉ sự như mơ, triệu triệu bất ngờ, không chờ cũng đến!",
+  "Chúc bạn 12 tháng phú quý, 365 ngày phát tài, 8760 giờ sung túc, 525600 phút thành công, 31536000 giây vạn sự như ý.",
+  "Năm mới chúc bạn sức khỏe nhiều. Bạc tiền rủng rỉnh thoải mái tiêu. Gia đình hạnh phúc bè bạn quý. Thanh thản vui chơi khỏi nghĩ nhiều.",
+  "Cung chúc tân niên, sức khỏe vô biên, thành công liên miên, hạnh phúc triền miên, túi luôn đầy tiền, sung sướng như tiên.",
+  "Mừng năm 2023: Chúc bạn luôn hoan hỉ, sức khỏe bền bỉ, công danh hết ý, tiền vào bạc tỉ, tiền ra ri rỉ, tình yêu thỏa chí, vạn sự như ý, luôn cười hi hi, cung hỷ cung hỷ…",
+  "Một năm mới lại đến rồi, chúc bạn của tôi tình duyên phơi phới, hạnh phúc thăng hoa, gia đình yên ấm.",
+  "Mừng năm 2023: Chúc bạn luôn hoan hỉ, sức khỏe bền bỉ, công danh hết ý, tiền vào bạc tỉ, tiền ra ri rỉ, tình yêu thỏa chí, vạn sự như ý, luôn cười hi hi, cung hỷ cung hỷ…",
+  " Năm mới vừa sang, hạnh phúc thênh thang, ý chí vững vàng, niềm vui rộn ràng, tiền bạc lai láng, sức khỏe cường tráng, năm mới vẻ vang, giữ mãi an khang, giữ tràn lộc phúc, kính chúc kính chúc.",
+  "Năm mới 2023, chúc anh chị em tiền vào cửa trước, tiền ra cửa sau, hai cái đâm nhau, chui vào két sắt, phần thì mua đất, phần thì mua vàng, lang thang du lịch.",
 ];
 
 const toWish = (name, wishs) => {

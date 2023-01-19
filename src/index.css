@@ -18,13 +18,16 @@ p.text {
   margin: auto;
   margin-top: 10px;
   font-family: 'Pacifico', cursive;
-  font-size: large;
+  font-size: larger;
   /* color: #fcf2cf; */
-  color: #6e1315;
+  /* color: #6e1315; */
+  
   background-color:rgba(255, 255, 255, 0.6);
-  width: 50%;
-  padding: 5px;
+  width: 60%;
+  padding: 5px 10px;
   border-radius: 5px;
+  position: relative;
+  z-index: 2;
 }
 .feliz{
   width: 100%;
