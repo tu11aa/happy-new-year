@@ -74,5 +74,24 @@ export const wish = {
   "2002-03-25":
     "Tuy là mới biết nhau nhưng mà đc cái quăng miếng là bắt quăng miếng là bắt lẹ lắm:))). Bị cái Đại hay bận chứ không là nguyên team chơi chung nhiều hơn rồi :v. Chúc năm mới vui vẻ, sống khỏe nhá, và đặt biệt ít bận hơn để đi chơi với bọn toy :v",
   "2002-07-11":
-    "Ỏ ai nhớ ngày sinh mình vại, cap màn hình lại rồi gửi qua để nhận lì xì nhóe :v", 
+    "Ỏ ai nhớ ngày sinh mình vại, cap màn hình lại rồi gửi qua để nhận lì xì nhóe :v",
 };
+
+export const wishQuin = [
+  `Năm nay thật sự là 1 năm khá ý nghĩa với em luôn. Khi mà được gặp
+  lại chị và thân với chị hơn đóoooooo. Nhưng mà điều ý nghĩa nhất là
+  em phát hiện ra rằng em đã nới lỏng cảnh giác để có thể tin tưởng
+  một người và thật sự gọi chị là bạn đúng nghĩa. Thiệc luôn là em đã
+  coi chị là 1 người cực kì quan trọng, kể những chuyện mà chưa bao
+  giờ kể với ai cho chị nghe đó, nên mong rằng chị mãi mãi là bạn thân
+  thiết với em nhaaaaa. Chúc thì đã chúc bên kia òi, nhưng mốt gặp
+  nhau toi chúc lại thêm lần nữa nhaa.`,
+  `Tưởng hết rồi đúng hông ạaaaaa, Hổng có dễ đâu :v. Yêu chị muốn
+  sỉu luôn thì tất nhiên nói nhiêu đó sao mà đủ, mà có nói cũng hông
+  đủ nữa, tạo chúng ta là 2 con người cứ gặp nhau là tự nhiên chuyện
+  tuông ra như suối, nói hoài hông hết, với cả còn nhây nhầy nhụa,
+  có bao giờ ngừng đúng lịch đâu :v. Nhưng mà thật sự là rất thương
+  chị nha, nên đôi khi tôi mới dỗi đó, chứ không thì không thèm tốn
+  công đâu :v. Mốt em lên đi chơi với chị rồi lì xì sau nèeeeee. Yêu
+  chị ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ Số may mắn của chị là:`,
+];
