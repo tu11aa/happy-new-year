@@ -54,7 +54,7 @@ export const toWish = (name, wishs) => {
 export const wish = {
   "2001-12-24": "Người đặt biệt, nên phải chúc theo kiểu đặt biệt nhoeeeeee <3",
   "2000-10-17":
-    "Á à bà chị tui dễ thương vui tánh :v. Nhưng mà bị cái tật nhây quá nha bà dà :))). Năm mới chúc chị ",
+    "Á à bà chị tui xinh đẹp dễ thương dịu dàng lung linh đáng yêu đáng mến thông minh thân thiện đảm đang hiền lành cá tính mạnh mẽ hấp dẫn quyến rũ mặn mà và yêu động vật yêu thiên nhiên, yêu hàng xóm, yêu mọi người, đặc biệt là yêu Tú nhất vũ trụ :v. Nhưng mà bị cái tật nhây quá nha bà dà :))). Năm mới chúc chị nay đạt được siêu nhiều thành công trong công việc nha, chứ thấy năm nay bà bận nhiều quá, hông đi chơi được với nhóm luôn. Nhưng vẫn giữ gìn sức khỏe, và đặc biệt là phải giữ gìn sức khỏe nhá, bớt thức khuya lại.",
   "2002-08-13":
     "Nam chơi game hay cọc nhưng được cái ở ngoài vô tri vl :)), tuy nhiên tính tình rất tốt nha, quan tâm bạn bè và rất nhiệt tình. Chúc Nam với Mai Phương luôn dui dẻ, công việc sẽ tiến tới bước cao hơn như quản lý chẳng hạn, sao đó bao chúng toy mấy chầu ăn uốn phê pha :)))))",
   "2002-03-07":
@@ -73,4 +73,6 @@ export const wish = {
     "Mặc dù hay chửi m nhưng không có ý gì đâu nha bàaaa. Thật sự toy xem bà là 1 người bạn đó, chơi chung vui nha. Dạo này học khác nhau nên cũng ít gặp, nhưng bạn vẫn chiếm 1 slot trong friend list của toy nhá. Chúc năm mới vui vẻ, nhiều sức khỏe để chống chọi với deadline nha.",
   "2002-03-25":
     "Tuy là mới biết nhau nhưng mà đc cái quăng miếng là bắt quăng miếng là bắt lẹ lắm:))). Bị cái Đại hay bận chứ không là nguyên team chơi chung nhiều hơn rồi :v. Chúc năm mới vui vẻ, sống khỏe nhá, và đặt biệt ít bận hơn để đi chơi với bọn toy :v",
+  "2002-07-11":
+    "Ỏ ai nhớ ngày sinh mình vại, cap màn hình lại rồi gửi qua để nhận lì xì nhóe :v", 
 };
