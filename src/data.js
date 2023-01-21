@@ -89,22 +89,6 @@ export const wish = {
 };
 
 export const wishQuin = [
-  // `Năm nay thật sự là 1 năm khá ý nghĩa với em luôn. Khi mà được gặp
-  // lại chị và thân với chị hơn đóoooooo. Nhưng mà điều ý nghĩa nhất là
-  // em phát hiện ra rằng em đã nới lỏng cảnh giác để có thể tin tưởng
-  // một người và thật sự gọi chị là bạn đúng nghĩa. Thiệc luôn là em đã
-  // coi chị là 1 người cực kì quan trọng, kể những chuyện mà chưa bao
-  // giờ kể với ai cho chị nghe đó, nên mong rằng chị mãi mãi là bạn thân
-  // thiết với em nhaaaaa. Chúc thì đã chúc bên kia òi, nhưng mốt gặp
-  // nhau toi chúc lại thêm lần nữa nhaa.`,
-  // `Tưởng hết rồi đúng hông ạaaaaa, Hổng có dễ đâu :v. Yêu chị muốn
-  // sỉu luôn thì tất nhiên nói nhiêu đó sao mà đủ, mà có nói cũng hông
-  // đủ nữa, tạo chúng ta là 2 con người cứ gặp nhau là tự nhiên chuyện
-  // tuông ra như suối, nói hoài hông hết, với cả còn nhây nhầy nhụa,
-  // có bao giờ ngừng đúng lịch đâu :v. Nhưng mà thật sự là rất thương
-  // chị nha, nên đôi khi tôi mới dỗi đó, chứ không thì không thèm tốn
-  // công đâu :v. Mốt em lên đi chơi với chị rồi lì xì sau nèeeeee. Yêu
-  // chị ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ Số may mắn của chị là:`,
   [
     76, 257, 107, 30, 108, 95, 119, 30, 114, 102, 7851, 114, 30, 113, 7919, 30,
     106, 222, 30, 47, 30, 108, 257, 107, 30, 105, 102, 223, 30, 251, 30, 108,
