@@ -26,6 +26,10 @@ input.code {
   position: relative;
   z-index: 2;
 }
+.opacity {
+  opacity: 0.5;
+  color: white;
+}
 select.options {
   display: block;
   margin: auto;

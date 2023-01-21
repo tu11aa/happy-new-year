@@ -6,6 +6,8 @@ import {
   wishsParents,
   wishsCousin,
   wishQuin,
+  decodeMessage,
+  key,
 } from "./data.js";
 
 function App() {
@@ -14,7 +16,7 @@ function App() {
   const [text, setText] = useState("");
   const [type, setType] = useState("");
   const [typeClass, setTypeClass] = useState("code");
-  const [secret, setSecret] = useState(10);
+  const [secret, setSecret] = useState(15);
   const [randnum, setRandnum] = useState(0);
 
   const handleDate = (e) => {
@@ -117,12 +119,17 @@ function App() {
       )}
       {type === accessTokens[5] && (
         <>
-          <p className="text z-index">{wishQuin[0]}</p>
+          <p className="text z-index">
+            {decodeMessage(wishQuin[0], key)}
+            <span className="opacity">{secret > 0 && secret}</span>
+          </p>
           {secret > 0 ? (
-            <p className="text z-index"></p>
+            <p className="text z-index">
+              ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+            </p>
           ) : (
             <p className="text z-index">
-              {wishQuin[1]}
+              {decodeMessage(wishQuin[1], key)}
               <strong style={{ color: "red" }}>{` ${randnum}`}</strong>
             </p>
           )}
