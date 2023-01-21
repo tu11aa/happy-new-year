@@ -30,6 +30,17 @@ export const wishsRelatives = [
   "Một năm mới mang đến cho ta cơ hội để biến ước mơ trở thành hiện thực, giúp cuộc sống trở nên tốt hơn mỗi ngày. Con mong năm mới 2023 cũng mang đến cho @name những điều tốt đẹp nhất. Chúc mừng năm mới!",
   "Năm mới đến, con không có ước nguyện gì ngoài việc mong @name sức khoẻ, bình an, luôn là động lực, chỗ dựa cho con cháu.",
   // "Lại một năm mới sắp đến, con cảm thấy mình thật may mắn khi vẫn có đủ đầy cả bố cả mẹ. Con cảm ơn @name đã luôn ở bên, chia sẻ, thấu hiểu và giúp đỡ con trong cuộc sống.",
+  "Đong cho đầy hạnh phúc. Gói cho trọn lộc tài. Giữ cho mãi an khang. Thắt cho chặt phú quý. Cùng chúc nhau như ý. Hứng cho tròn an khang. Chúc năm mới bình an. Cả nhà đều sung túc",
+  "Chúc @name đẹp như hoa hồng. Thành công như Cúc. Hạnh phúc như hoa Mai. Phát tài như hoa Pháo. Độc đáo như hoa Lan. An khang như hoa Huệ. Trí tuệ như hoa Sen.",
+  `Mùa xuân xin chúc
+  Khúc ca an bình
+  Năm mới phát tài
+  Vạn sự như ý
+  Già trẻ lớn bé 
+  Đầy ắp tiếng cười
+  Trên mặt ngời ngời
+  Tràn đầy hạnh phúc`,
+  "Năm Tân Sửu, chúc @name vui vẻ như chim sẻ, khỏe mạnh như đại bàng, giàu sang như chim phụng, làm lụng như chim sâu, sống lâu như đà điểu nhé!",
 ];
 
 export const wishsCousin = [
