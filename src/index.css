@@ -12,8 +12,11 @@ html{
 }
 input.code {
   display: block;
-  margin: auto;
-  margin-top: 50vh;
+  position: absolute;
+  width: auto;
+  top: 50vh;
+  left: 30%;
+  right: 30%;
   padding: 10px;
   border-radius: 5px;
   outline: none;

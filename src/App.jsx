@@ -70,13 +70,22 @@ function App() {
   };
 
   return typeClass === "code" ? (
-    <input
-      className="code"
-      type="text"
-      value={type}
-      onChange={handleAccessToken}
-      placeholder="Access token"
-    />
+    <>
+      <p className="text">
+        Trang web không được thiết kế cho điện thoại!
+        <br />
+        <strong style={{ color: "red", fontWeight: "normal" }}>
+          Khuyến khích sử dụng Laptop để đảm bảo trải nghiệm tốt nhất.
+        </strong>
+      </p>
+      <input
+        className="code"
+        type="text"
+        value={type}
+        onChange={handleAccessToken}
+        placeholder="Access token"
+      />
+    </>
   ) : (
     <>
       {type === accessTokens[0] && (
@@ -92,7 +101,7 @@ function App() {
             <option value="Mẹ">Mẹ</option>
             <option value="Dung">Dung</option>
           </select>
-          <p className="text">{text}</p>
+          <p className="text z-index">{text}</p>
         </>
       )}
       {type === accessTokens[2] && (
@@ -104,11 +113,11 @@ function App() {
             <option value="Gia đình Mẹ 5">Gia đình Mẹ 5</option>
             <option value="Gia đình Mẹ Út">Gia đình Mẹ Út</option>
           </select>
-          <p className="text">{text}</p>
+          <p className="text z-index">{text}</p>
         </>
       )}
       {type === accessTokens[3] && (
-        <p className="text">{toWish("", wishsCousin)}</p>
+        <p className="text z-index">{toWish("", wishsCousin)}</p>
       )}
       {type === accessTokens[4] && (
         <p className="text z-index">
